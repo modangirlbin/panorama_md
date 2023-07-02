@@ -13,9 +13,9 @@
 
 ### - scroll
     
-    ```js
-    $('.img_wrap').scrollLeft(imgW/2);
-    ```
+```js
+$('.img_wrap').scrollLeft(imgW/2);
+```
     
 ### - swipe
     
