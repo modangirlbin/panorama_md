@@ -32,7 +32,7 @@ var swiper = new Swiper('.swiper-container', {
     https://swiperjs.com/api/
     resistanceRatio : This option allows you to control resistance ratio
     
-### - opensource custom
+### - 오픈소스 커스텀
     
     반복해제x
     
@@ -48,10 +48,10 @@ var swiper = new Swiper('.swiper-container', {
 시연페이지 : https://modangirlbin.github.io/panorama (모바일)
 <br>
 
-### scroll
+### - scroll
     
     
-### swipe
+### - swipe
     
  ```js
     var swiper = new Swiper('.swiper-container', {
@@ -61,7 +61,7 @@ var swiper = new Swiper('.swiper-container', {
     });
   ```
     
-### opensource custom
+### - 오픈소스 커스텀
     
  ```js
     $(".panorama").panorama_viewer({
