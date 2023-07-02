@@ -13,13 +13,13 @@
 
 ### - scroll
     
-    ```jsx
+    ```js
     $('.img_wrap').scrollLeft(imgW/2);
     ```
     
 ### - swipe
     
-    ```jsx
+    ```js
     var swiper = new Swiper('.swiper-container', {
             slidesPerView: 'auto',    //동시에 보여줄 슬라이드 갯수
             freeMode: true,           //슬라이드 이동방식
@@ -53,7 +53,7 @@
     
 ### swipe
     
-    ```jsx
+    ```js
     var swiper = new Swiper('.swiper-container', {
       slidesPerView: 'auto',
       freeMode: true,
@@ -63,14 +63,14 @@
     
 ### 오픈소스 커스텀
     
-    ```jsx
+    ```js
     $(".panorama").panorama_viewer({
           repeat: true,
           autoPlay: true
         });
     ```
     
-    ```jsx
+    ```js
     !function($){
       
         // touch이벤트 등록
