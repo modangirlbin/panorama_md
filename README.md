@@ -8,7 +8,7 @@
 > 2. 사용자 컨트롤 가능
 
 
-시연페이지 : [https://modangirlbin.github.io/pano](https://modangirlbin.github.io/pano/)
+시연페이지 : [https://modangirlbin.github.io/pano](https://modangirlbin.github.io/pano/) (모바일)
 <br>
 
 ### - scroll
@@ -45,7 +45,7 @@
 > 2. 무한 루프
 > 3. 사용자 컨트롤 가능
 
-시연페이지 : https://modangirlbin.github.io/panorama
+시연페이지 : https://modangirlbin.github.io/panorama (모바일)
 <br>
 
 ### scroll
