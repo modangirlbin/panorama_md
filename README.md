@@ -19,15 +19,15 @@ $('.img_wrap').scrollLeft(imgW/2);
     
 ### - swipe
     
-    ```js
-    var swiper = new Swiper('.swiper-container', {
+```js
+var swiper = new Swiper('.swiper-container', {
             slidesPerView: 'auto',    //동시에 보여줄 슬라이드 갯수
             freeMode: true,           //슬라이드 이동방식
             resistance : true,        
             resistanceRatio : 0,      //bounce
             //centeredSlides: true,
           });
-    ```
+```
     
     https://swiperjs.com/api/
     resistanceRatio : This option allows you to control resistance ratio
@@ -53,24 +53,24 @@ $('.img_wrap').scrollLeft(imgW/2);
     
 ### swipe
     
-    ```js
+ ```js
     var swiper = new Swiper('.swiper-container', {
       slidesPerView: 'auto',
       freeMode: true,
       loop: true,          //슬라이드 반복
     });
-    ```
+  ```
     
 ### 오픈소스 커스텀
     
-    ```js
+ ```js
     $(".panorama").panorama_viewer({
           repeat: true,
           autoPlay: true
         });
-    ```
+ ```
     
-    ```js
+```js
     !function($){
       
         // touch이벤트 등록
@@ -220,7 +220,7 @@ $('.img_wrap').scrollLeft(imgW/2);
           }); 
         }
       }(window.jQuery);
-    ```
+```
     
     정확한 좌표 값을 얻을 수 있는 마우스 이벤트와 달리 터치 이벤트는 손가락 접촉면이 크기 때문에 접촉 표면의 평균 좌표 값을 얻는다
     
