@@ -1,7 +1,7 @@
 # panorama(공개용)
 <br>
 
-## 1. 기본형
+## 기본형
 
 > 💡 mobile  
 > 1. 이미지 중앙정렬
@@ -11,13 +11,13 @@
 시연페이지 : [https://modangirlbin.github.io/pano](https://modangirlbin.github.io/pano/) (모바일)
 <br>
 
-### - scroll
+### 1. scroll
     
 ```js
 $('.img_wrap').scrollLeft(imgW/2);
 ```
     
-### - swipe
+### 2. swipe
     
 ```js
 var swiper = new Swiper('.swiper-container', {
@@ -32,13 +32,13 @@ var swiper = new Swiper('.swiper-container', {
     https://swiperjs.com/api/
     resistanceRatio : This option allows you to control resistance ratio
     
-### - 오픈소스 커스텀
+### 3. 오픈소스 커스텀
     
     반복해제x
     
 <br>
 
-## 2. 무한슬라이드
+## 무한슬라이드
 
 > 💡 mobile
 > 1. 오토 슬라이드
@@ -48,10 +48,10 @@ var swiper = new Swiper('.swiper-container', {
 시연페이지 : https://modangirlbin.github.io/panorama (모바일)
 <br>
 
-### - scroll
+### 1. scroll
     
     
-### - swipe
+### 2. swipe
     
  ```js
     var swiper = new Swiper('.swiper-container', {
@@ -61,7 +61,7 @@ var swiper = new Swiper('.swiper-container', {
     });
   ```
     
-### - 오픈소스 커스텀
+### 3. 오픈소스 커스텀
     
  ```js
     $(".panorama").panorama_viewer({
