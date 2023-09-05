@@ -8,7 +8,7 @@
 > 2. 사용자 컨트롤 가능
 
 
-시연페이지 : [https://modangirlbin.github.io/pano](https://modangirlbin.github.io/pano/) (모바일)
+시연페이지 : [https://modangirlbin.github.io/pano](https://modangirlbin.github.io/pano_plain/) (모바일)
 <br>
 
 ### 1. scroll
@@ -45,7 +45,7 @@ var swiper = new Swiper('.swiper-container', {
 > 2. 무한 루프
 > 3. 사용자 컨트롤 가능
 
-시연페이지 : https://modangirlbin.github.io/panorama (모바일)
+시연페이지 : https://modangirlbin.github.io/pano_auto (모바일)
 <br>
 
 ### 1. scroll
